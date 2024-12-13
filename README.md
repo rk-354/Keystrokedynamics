@@ -1,5 +1,6 @@
 Objective
 Develop a behavioral biometric authentication system that verifies user identity based on their unique typing patterns, ensuring secure and personalized access to systems.
+
 • Key Features
 
 1. Data Capture: Record keystroke dynamics, including typing speed, key press duration, and time between key presses.
